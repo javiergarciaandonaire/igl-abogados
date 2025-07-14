@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>IGL Abogados Asociados</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header>
+    <h1>IGL Abogados Asociados</h1>
+    <nav>
+      <a href="#quienes-somos">¿Quiénes Somos?</a>
+      <a href="#servicios">Servicios</a>
+      <a href="#informacion-legal">Información Legal</a>
+      <a href="#contacto">Contacto</a>
+    </nav>
+  </header>
+
+  <section id="quienes-somos">
+    <h2>¿Quiénes Somos?</h2>
+    <p>Estudio jurídico con amplia experiencia en Derecho Penal, Civil, Familia y Empresarial.</p>
+  </section>
+
+  <section id="servicios">
+    <h2>Servicios Ofrecidos</h2>
+    <ul>
+      <li>⚖️ Derecho Penal</li>
+      <li>🏠 Derecho Civil</li>
+      <li>👨‍👩‍👧 Derecho de Familia</li>
+      <li>🏢 Derecho Empresarial</li>
+    </ul>
+  </section>
+
+  <section id="informacion-legal">
+    <h2>Información Legal</h2>
+    <article>
+      <h4>¿Qué hacer si soy detenido?</h4>
+      <p>Conozca sus derechos y protocolos de defensa.</p>
+    </article>
+  </section>
+
+  <section id="contacto">
+    <h2>Contáctanos</h2>
+    <form>
+      <input type="text" placeholder="Tu nombre" required>
+      <input type="email" placeholder="Correo electrónico" required>
+      <textarea placeholder="Escribe tu mensaje..." required></textarea>
+      <button type="submit">Enviar</button>
+    </form>
+  </section>
+
+  <footer>
+    <p>&copy; 2025 IGL Abogados Asociados</p>
+  </footer>
+</body>
+</html>
